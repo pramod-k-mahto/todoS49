@@ -9,7 +9,7 @@ function App() {
   const navigate = useNavigate();
   return (
     <div className="   p-5">
-      <h1 className="text-2xl  text-center">Todo App </h1>
+      <h1 className="text-2xl  text-center">This is My Todo App </h1>
       <div className=" w-96 m-auto p-5">
         <input
           onChange={(e) => {
